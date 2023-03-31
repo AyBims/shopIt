@@ -6,9 +6,7 @@ An e-commerce website
 * [0x01 Introduction](#0x01-Introduction)
 * [0x02 Environment](#0x02-Environment)
 * [0x03 Installation](#0x03-Installation)
-* [0x04 Testing](#0x04-Testing)
-* [0x05 Usage](#0x05-Usage)
-* [0x06 Authors](#0x06-Authors)
+* [0x04 Authors](#0x06-Authors)
 
 
 
@@ -32,7 +30,7 @@ To see the fundamental background of the project visit the [Project pitch](https
   * [pycodestyle (version 2.7.*)](https://pypi.org/project/pycodestyle/)
   * [PEP8](https://pep8.org/)
 
-All the development and testing was runned over an operating system Ubuntu 20.04 LTS using programming language Python 3.8.3. The editors used were VIM 8.1.2269, VSCode 1.6.1 and Atom 1.58.0 . Control version using Git 2.25.1.
+All the development and testing was runned over an operating system Ubuntu 20.04 LTS using programming language Python 3.8.3. The editors used were VIM and VSCode. Control version using Git.
 
 ## 0x03 Installation
 
@@ -47,6 +45,6 @@ change to the `shopIt` directory and run the command:
 ```
 
 
-## 0x06 Author
+## 0x04 Author
 * Ayomide Adeshina
 
