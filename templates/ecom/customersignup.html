@@ -3,7 +3,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>shopIt</title>
 
 
 
@@ -13,7 +13,7 @@
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background: linear-gradient(to right, #b92b27, #1565c0)
+    background: linear-gradient(to right, #1f2641, #424890)
 }
 
 .box {
@@ -154,7 +154,7 @@ a.socialIcon:hover,
                 <form class="box" method="post" enctype="multipart/form-data">
                   {% csrf_token %}
                     <h1>CUSTOMER SIGNUP</h1>
-                    <p class="text-muted"> Please enter your details to create account !</p>
+                    <p class="text-muted"> Please fill the form below to create your account!</p>
                       {% render_field userForm.first_name class="form-control" placeholder="First Name" %}
                         {% render_field userForm.last_name class="form-control" placeholder="Last Name" %}
                           {% render_field userForm.username class="form-control" placeholder="Username" %}
