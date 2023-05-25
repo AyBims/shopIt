@@ -24,5 +24,5 @@ ADD . /shopIt/
 
 # Install any needed packages specified in requirements.txt
 
-RUN pip install -r requirements.txt
+RUN pip install -r requirement.txt
 
