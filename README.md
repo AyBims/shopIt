@@ -5,7 +5,7 @@ An e-commerce website
 
 * [0x01 Introduction](#0x01-Introduction)
 * [0x02 Environment](#0x02-Environment)
-* [0x03 Installation](#0x03-Installation)
+* [0x03 Installation and Article link](#0x03-Installation)
 * [0x04 Authors](#0x06-Authors)
 
 
@@ -33,7 +33,7 @@ To see the fundamental background of the project visit the [Project pitch](https
 All the development and testing was runned over an operating system Ubuntu 20.04 LTS using programming language Python 3.8.3. The editors used were VIM and VSCode. Control version using Git.
 
 ## 0x03 Installation
-
+Attached is a link to an article that is more comprehensive about the installation process(https://dev.to/aybims/how-to-deploy-a-three-tier-web-application-in-2-different-ways-2fpi).
 ```bash
 git clone https://github.com/aybims/shopIt.git
 ```
